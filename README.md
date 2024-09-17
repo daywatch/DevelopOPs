@@ -2,8 +2,8 @@
  This repo contains my work and study on **backend development** as well as **some MLOps**
 
 
-1. Python library packaging: from a notebook to (production-ready code)[https://github.com/daywatch/DevelopOPs/tree/main/production_coding]
-- My notes on some (production code pricinples)[https://docs.google.com/document/d/15md-MD69QjQVkclCG0tAD7FcSuuUe4EOhLnYsbbr__A/edit?usp=sharing]
+1. Python library packaging: from a notebook to [production-ready code](https://github.com/daywatch/DevelopOPs/tree/main/production_coding)
+- My notes on some [production code pricinples](https://docs.google.com/document/d/15md-MD69QjQVkclCG0tAD7FcSuuUe4EOhLnYsbbr__A/edit?usp=sharing)
 - skills used: build, pytest, data & model pipelines, tox, versioning, and typing, etc.
  
 2. API Part 1: basics

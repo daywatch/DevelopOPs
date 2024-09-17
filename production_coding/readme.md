@@ -12,11 +12,11 @@ Here is how to use the package:
 First, install tox ```pip install tox```
 
 There are three commands in the tox.ini file
-- ```tox run -e train```
+- ```tox run train```
 This initiates the training of logistic regression model and model saving
-- ```tox run -e test_package```
+- ```tox run test_package```
 This is about unit tests on features and model prediction
-- ```tox run -e checks```
+- ```tox run checks```
 This checks three things:  
     - PEP8 (flake8) 
     - isort (formatting of import)
