@@ -1,8 +1,8 @@
 ## Docker notes
-
+[common CLIs](https://github.com/daywatch/DevelopOPs/blob/main/docker_and_kubernetes/docker_commands_notes.txt)
 <br>
 
-## Docker process sample 1
+## Docker process sample 1: BERT
 
 <br>
 
@@ -12,7 +12,7 @@
  
 <br>
 
-## Docker process sample 2
+## Docker process sample 2: LLM code generation PoC
 
 In the docker2 repo, I built a naive Chatgpt bot that can answer data query questions on the [Kaggle diabetes dataset](https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset). To run the app locally, you need:
 - build docker image ```docker build -t my-app```
