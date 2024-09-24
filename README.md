@@ -10,7 +10,10 @@
 - Some study [notes](https://docs.google.com/document/d/10yWzdbcHFrEOKyhqmM6En-Fas7g_U5GV1ZBJpVbvN_c/edit?usp=sharing) on the intro of REST API and JavaScript
 
 3. API Part 2 - FastAPI deployment (coming soon!)
-4. API Part 3 - NodeJS (coming soon!)
+4. API Part 3 - NodeJS 
+- [notes](https://docs.google.com/document/d/1OyLrUYKabVi8MlhL7VkDF1ICSqOheNtkEDAKsoANXqI/edit?usp=sharing)
+- Use nodeJS for simple web REACT design
+
 
 5. [containers](https://github.com/daywatch/DevelopOPs/tree/main/docker_and_kubernetes)
 - My sample codes on both Docker and Kubernetes
