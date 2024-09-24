@@ -5,5 +5,6 @@ Steps
 ```"scripts": {
     "start-dev": "nodemon index.js",
    	    "start": "node index.js"
-  	}```
+  	}
+```
 4. Run `npm run start-dev` for testing
