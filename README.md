@@ -9,11 +9,10 @@
 2. API Part 1: basics
 - Some study [notes](https://docs.google.com/document/d/10yWzdbcHFrEOKyhqmM6En-Fas7g_U5GV1ZBJpVbvN_c/edit?usp=sharing) on the intro of REST API and JavaScript
 
-3. API Part 2 - FastAPI deployment (coming soon!)
-4. API Part 3 - NodeJS 
+3. API Part 2 - *node.js*, *Express.js*
 - [notes](https://docs.google.com/document/d/1OyLrUYKabVi8MlhL7VkDF1ICSqOheNtkEDAKsoANXqI/edit?usp=sharing)
-- Use nodeJS for simple web REACT design
+- [Use node.js for simple web REACT design](https://github.com/daywatch/DevelopOPs/tree/main/NodeJS/project1_simple_webREACT)
+- [Use express.js for a nested API snippet](https://github.com/daywatch/DevelopOPs/tree/main/NodeJS/project2_expressJS_API)
 
-
-5. [containers](https://github.com/daywatch/DevelopOPs/tree/main/docker_and_kubernetes)
-- My sample codes on both Docker and Kubernetes
+4. [containers](https://github.com/daywatch/DevelopOPs/tree/main/docker_and_kubernetes)
+- My sample codes on both *Docker* and *Kubernetes*
