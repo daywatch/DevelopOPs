@@ -20,4 +20,6 @@
 - [Use node.js for simple web REACT design](https://github.com/daywatch/DevelopOPs/tree/main/NodeJS/project1_simple_webREACT)
 - [Use express.js for a nested API snippet](https://github.com/daywatch/DevelopOPs/tree/main/NodeJS/project2_expressJS_API)
 
-4.3 Flask (coming soon)
+4.3 Flask
+- a [simple use case](https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_basic) of GET & POST on a local db with flask
+- an advanced version of the simple use case, including [docker](https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_advanced/Dockerfile),[data schema] (https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_advanced/schema) and [blueprint](https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_advanced/item)
