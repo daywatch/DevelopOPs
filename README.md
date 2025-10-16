@@ -21,5 +21,5 @@
 - [Use express.js for a nested API snippet](https://github.com/daywatch/DevelopOPs/tree/main/NodeJS/project2_expressJS_API)
 
 4.3 Flask
-- a [simple use case](https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_basic.py) of GET & POST on a local db with flask
-- an advanced version of the simple use case, including [docker](https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_advanced/Dockerfile),[data schema](https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_advanced/schema.py) and [blueprint](https://github.com/daywatch/DevelopOPs/tree/main/flask API dev/flask_advanced/item.py)
+- a [simple use case](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_basic.py) of GET & POST on a local db with flask
+- an advanced version of the simple use case, including [docker](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_advanced/Dockerfile),[data schema](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_advanced/schema.py) and [blueprint](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_advanced/item.py)
