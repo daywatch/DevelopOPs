@@ -1,6 +1,7 @@
-Backend installation instruction
+## Backend installation instruction
 
 1.Install prerequisites
+
 Node.js (v20 recommended, via fnm or direct download)
 
 PostgreSQL (v16)
@@ -10,29 +11,50 @@ PGAdmin 4 (optional GUI)
 Verify:
 
 bash
+
 node -v   # should print v20.x
+
 npm -v    # should print 10.x
+
 psql --version # should print 16.x
 
 <br>
 
+
 2.In PostgreSQL:
 
 CREATE DATABASE database;
+
 CREATE USER apiuser WITH PASSWORD 'password';
+
 GRANT CONNECT ON DATABASE database TO apiuser;
+
 GRANT ALL PRIVILEGES ON SCHEMA public TO apiuser;
+
+<br>
 
 3.Clone the project:
 
-git clone https://github.com/ait
+git clone 
+
 cd backend
+
 npm init -y
 
+<br>
+
+
 4.Install dependencies:
+
 npm install typescript ts-node @types/node --save-dev
+
 npm install @types/express @types/cors --save-dev
+
 npm install typeorm reflect-metadata pg express cors body-parser dotenv
+
+
+<br>
+
 
 5.Config Typescript
 
@@ -51,10 +73,19 @@ json
   }
 }
 
+
+<br>
+
 6.Compile ts:
+
 
 npx tsc
 
+
+<br>
+
+
 7.Run backend:
+
 
 npx ts-node src/index.ts
