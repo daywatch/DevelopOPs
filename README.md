@@ -11,6 +11,16 @@
 
 3. [Typescript](https://github.com/daywatch/DevelopOPs/tree/main/Typescript)
 - My practice on Typescript, including basic and advanced features
+- Also, I have a mini-template for backend scripts connecting API functions to a database:
+	+ Entities → TypeORM models mapping to DB tables.
+
+	+ Controllers → Business logic (CRUD, validation, error handling).
+
+	+ Routers → Express routes mapping endpoints to controllers.
+
+	+ Database Config → DataSource setup for PostgreSQL.
+
+	+ Index → Entry point that wires everything together.
  
 4. API
 4.1 Some study [notes](https://docs.google.com/document/d/10yWzdbcHFrEOKyhqmM6En-Fas7g_U5GV1ZBJpVbvN_c/edit?usp=sharing) on the intro of REST API and JavaScript
@@ -26,3 +36,5 @@
 
 4.4 Terraform
 [study notes](https://github.com/daywatch/DevelopOPs/blob/main/terraform) , including basic commands, functions, modules, and AWS templates (S3, EC2, sagemaker, and dynomoDB)
+
+
