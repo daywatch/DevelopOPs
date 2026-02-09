@@ -33,7 +33,7 @@
 4.3 *React.js*
 
 - [study note](https://docs.google.com/document/d/1Qa5AXsx1UVGINHmAZlLFatZXN_sUj323gu21Bo2QSmY/edit?usp=sharing)
-- [React.js on frontend building essentials]()
+- [React.js on frontend building essentials](https://github.com/daywatch/DevelopOPs/tree/main/ReactJS/react_proj)
 
 4.4 Flask
 - a [simple use case](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_basic.py) of GET & POST on a local db with flask
