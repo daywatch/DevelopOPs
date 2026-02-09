@@ -30,11 +30,16 @@
 - [Use node.js for simple web REACT design](https://github.com/daywatch/DevelopOPs/tree/main/NodeJS/project1_simple_webREACT)
 - [Use express.js for a nested API snippet](https://github.com/daywatch/DevelopOPs/tree/main/NodeJS/project2_expressJS_API)
 
-4.3 Flask
+4.3 *React.js*
+
+- [study note](https://docs.google.com/document/d/1Qa5AXsx1UVGINHmAZlLFatZXN_sUj323gu21Bo2QSmY/edit?usp=sharing)
+- [React.js on frontend building essentials]()
+
+4.4 Flask
 - a [simple use case](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_basic.py) of GET & POST on a local db with flask
 - an advanced version of the simple use case, including [docker](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_advanced/Dockerfile),[data schema](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_advanced/schema.py) and [blueprint](https://github.com/daywatch/DevelopOPs/blob/main/Flask_API_dev/flask_advanced/item.py)
 
-4.4 Terraform
+4.5 Terraform
 [study notes](https://github.com/daywatch/DevelopOPs/blob/main/terraform) , including basic commands, functions, modules, and AWS templates (S3, EC2, sagemaker, and dynomoDB)
 
 
