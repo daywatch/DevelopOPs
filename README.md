@@ -1,5 +1,5 @@
 # DevelopOPs
- This repo contains my work and study on **backend development** as well as **some MLOps**
+ This repo contains my work and study on **frontend and backend development** as well as **some MLOps-related skills**
 
 
 1. Python library packaging: from a notebook to [production-ready code](https://github.com/daywatch/DevelopOPs/tree/main/production_coding)
